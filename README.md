@@ -22,6 +22,8 @@ Improvements:
 * CMakeLists.txt added to build with CMake
 * In general, more use of C++11 features
 
+V2 does not have the power operator like in V1.
+
 ## Credits
 
 Credits to [CodePulse](https://www.youtube.com/channel/UCUVahoidFA7F3Asfvamrm7w) for the Simple Math interpreter written in Python and credits to [CoolDeveloper101](https://github.com/CoolDeveloper101) for his Simple Math Interpreter written in C#.
