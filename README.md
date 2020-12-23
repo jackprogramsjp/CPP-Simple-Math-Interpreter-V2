@@ -31,7 +31,7 @@ Here is CoolDeveloper101's [simple math interpreter](https://github.com/CoolDeve
 
 # Running the program
 
-If you are using G++ (GNU Compiler Collection), there is a [compile.txt](https://github.com/jackprogramsjp/CPP-Simple-Math-Interpreter-V2/blob/master/compile.txt), so you can compile the interpreter into an executable file.
+If you are using G++ (GNU Compiler Collection), there is a [compile.txt](https://github.com/jackprogramsjp/CPP-Simple-Math-Interpreter-V2/blob/main/compile.txt), so you can compile the interpreter into an executable file.
 
 You can also build with CMake. In a terminal, go to the root directory and run
 ```bash
